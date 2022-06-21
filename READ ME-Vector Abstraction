@@ -1,0 +1,4 @@
+I have emulated the abstract painting named "Study for an unexecuted wallhanging" by Anni Albers because I felt intrigued to see if I can re-create this 
+painting using Processing.
+I have used PopMatrix() and PushMatrix() with at least one transformation like rotate.
+I have a color palette expressed as color variables to make it easier to read and reuse the code.
